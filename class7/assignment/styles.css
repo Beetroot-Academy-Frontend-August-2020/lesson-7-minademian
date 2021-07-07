@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+section {
+    display: block;
+    border: 1px solid white;
+    width: 100%;
+    max-width: 445px;
+    height: 100%;
+    padding: 0;
+}
+
+span {
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    border: 1px solid white;
+    display: inline-block;
+    padding: 0;
+    margin: 1px;
+}
